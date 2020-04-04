@@ -4,4 +4,4 @@ This repository contains python code for ime Series Forcasting using ARIMA. This
 
 <img align="center" src="download.png" width="1000" />
 
-<img align="center" src="unknown.png" width="1000" />
+<img align="center" src="Unknown.png" width="1000" />
