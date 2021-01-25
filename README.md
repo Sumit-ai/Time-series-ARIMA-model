@@ -14,8 +14,10 @@ from statsmodels.tsa.stattools import adfuller
 from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 
 ```
-## 
-This repository contains python code for ime Series Forcasting using ARIMA. This repository also explains the determination of p, d and q. This code can be found **[here](https://github.com/Sumit-ai/Time-series-ARIMA-model/blob/master/Time%20series%20using%20ARIMA%20model%20.ipynb)** 
+## Features and Code Link 
+- This repository contains python code for ime Series Forcasting using ARIMA. 
+- This repository also explains the determination of p, d and q. 
+- This code can be found **[here](https://github.com/Sumit-ai/Time-series-ARIMA-model/blob/master/Time%20series%20using%20ARIMA%20model%20.ipynb)** 
 
 <img align="center" src="Unknown1.png" width="1000" />
 
