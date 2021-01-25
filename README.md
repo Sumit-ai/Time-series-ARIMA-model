@@ -19,6 +19,6 @@ from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 - This repository also explains the determination of p, d and q. 
 - This code can be found **[here](https://github.com/Sumit-ai/Time-series-ARIMA-model/blob/master/Time%20series%20using%20ARIMA%20model%20.ipynb)** 
 
-<img align="center" src="Unknown1.png" width="100" />
+<img align="center" src="Unknown1.png" width="400" />
 
-<img align="center" src="Unknown.png" width="100" />
+<img align="center" src="Unknown.png" width="400" />
